@@ -24,7 +24,7 @@ bash
 Verify
 Run
 Copy code
-git clone https://github.com/tu_usuario/amigo-secreto.git
+https://github.com/Memphisfire96/desafio-amigo-secreto.git
 Abre el archivo index.html en tu navegador.
 
 Agrega amigos:
